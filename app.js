@@ -38,7 +38,7 @@ const url="https://us7.api.mailchimp.com/3.0/lists/8a3fa426ec";
 
 const options = {
 method: "POST",
-auth:"gerald:114124b7eeca5f2935f8c641bd09cb0f-us7"
+auth:"gerald cameron:d35430fc3e7676abfe41a6d9d9f4b582-us7"
 };
 
 const request = https.request(url,options,function(response){
