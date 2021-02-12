@@ -2,7 +2,7 @@
 const express = require("express");
 const bodyParser= require("body-parser");
 const https = require("https");
-const PORT = process.env.PORT || 5000;
+
 
 const app = express();
 
