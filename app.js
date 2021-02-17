@@ -65,6 +65,6 @@ app.post("/failure.html",function (req,res){
 
 });
 
-app.listen(process.env.PORT,function(){
+app.listen(process.env.PORT || 5000,function(){
   console.log("This server is running on port 5000.");
 });
