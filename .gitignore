@@ -3,6 +3,7 @@
 # npm-debug.log
 # .DS_Store
 # /*.env
+.idea
 =======
 .DS_STORE
 >>>>>>> 01727eb6161f7d67007029c7ba0f5acb71c9df42
